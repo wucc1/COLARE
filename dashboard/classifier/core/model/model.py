@@ -9,7 +9,7 @@ class CommitClassifier(nn.Module):
     """
     This is only a test model build for dashboard.
 
-    To use COLARE, you must train COLARE following 'readme.md' and replace this.
+    To use CRODI-MSA, you must train CRODI-MSA following 'readme.md' and replace this.
     """
     def __init__(self):
         super().__init__()

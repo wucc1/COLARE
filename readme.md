@@ -1,6 +1,6 @@
-# COLARE: Commit Classification via Fine-grained Context-aware Representation of Code Changes
+# CRODI-MSA: Commit Classification via Fine-grained Context-aware Representation of Code Changes
 
-COLARE is specifically designed for commit maintenance activity classification and has demonstrated outstanding performance, surpassing the state-of-the-art by 7.24% in accuracy and 7.35% in macro F1 score. COLARE's approach involves presenting and comparing code changes at the hunk level, incorporating fine-grained features based on the categories of modified files, and aggregating this with the representation of commit messages.
+CRODI-MSA is specifically designed for commit maintenance activity classification and has demonstrated outstanding performance, surpassing the state-of-the-art by 7.24% in accuracy and 7.35% in macro F1 score. CRODI-MSA's approach involves presenting and comparing code changes at the hunk level, incorporating fine-grained features based on the categories of modified files, and aggregating this with the representation of commit messages.
 
 ## Environment
 
